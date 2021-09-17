@@ -133,6 +133,10 @@ const Home = ({ navigation }) => {
             style={{
               height: 250,
               elevation: 2,
+              shadowColor: "#000",
+              shadowOffset: { width: 0, height: 1 },
+              shadowOpacity: 0.2,
+              shadowRadius: 1.41,
               backgroundColor: "#fff",
               marginLeft: 20,
               marginTop: 20,
@@ -177,6 +181,10 @@ const Home = ({ navigation }) => {
             style={{
               height: 250,
               elevation: 2,
+              shadowColor: "#000",
+              shadowOffset: { width: 0, height: 1 },
+              shadowOpacity: 0.2,
+              shadowRadius: 1.41,
               backgroundColor: "#fff",
               marginLeft: 20,
               marginTop: 20,
@@ -221,6 +229,10 @@ const Home = ({ navigation }) => {
             style={{
               height: 250,
               elevation: 2,
+              shadowColor: "#000",
+              shadowOffset: { width: 0, height: 1 },
+              shadowOpacity: 0.2,
+              shadowRadius: 1.41,
               backgroundColor: "#fff",
               marginHorizontal: 20,
               marginTop: 20,
@@ -325,7 +337,10 @@ const Home = ({ navigation }) => {
               marginHorizontal: 20,
               marginTop: 20,
               borderRadius: 15,
-
+              shadowColor: "#000",
+              shadowOffset: { width: 0, height: 1 },
+              shadowOpacity: 0.2,
+              shadowRadius: 1.41,
               elevation: 2,
             }}
           >
@@ -374,7 +389,10 @@ const Home = ({ navigation }) => {
               marginRight: 20,
               marginTop: 20,
               borderRadius: 15,
-
+              shadowColor: "#000",
+              shadowOffset: { width: 0, height: 1 },
+              shadowOpacity: 0.2,
+              shadowRadius: 1.41,
               elevation: 2,
             }}
           >
